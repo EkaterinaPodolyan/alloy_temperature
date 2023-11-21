@@ -23,3 +23,7 @@
 ------
 ##  Используемые библиотеки
 **pandas, numpy, matplotlib, seaborn, sklearn, catboost**
+
+------
+## Статус
+окончен
